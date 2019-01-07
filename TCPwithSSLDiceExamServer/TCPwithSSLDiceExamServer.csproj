@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="ClassLibraryExamDice">
+      <HintPath>..\..\ClassLibraryExamDice\ClassLibraryExamDice\bin\Debug\netcoreapp2.1\ClassLibraryExamDice.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
